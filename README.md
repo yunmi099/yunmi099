@@ -12,7 +12,8 @@
   </div>
   
   <div>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunmi099&layout=compact)](https://github.com/yunmi099/github-readme-stats)
+<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunmi099&layout=compact)](https://github.com/yunmi099/github-readme-stats) -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunmi099&layout=compact" />
   </div>
 </div>
 
