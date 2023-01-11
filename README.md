@@ -14,3 +14,6 @@
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunmi099&layout=compact&theme=dark&langs_count=3"/>
   </div>
+   <div>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yunmi099"/>
+  </div>
