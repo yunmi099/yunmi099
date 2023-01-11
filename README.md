@@ -15,10 +15,9 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunmi099"/>
   </div>
-    <div>
+   <div>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yunmi099"/>
   </div>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
 
