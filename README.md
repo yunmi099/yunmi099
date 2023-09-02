@@ -20,7 +20,8 @@
   </div>
     <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunmi099&layout=compact&theme=dark&langs_count=3"/>
-  </div>
+<!--   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=yunmi099&theme=dark&show_icons=true"/>
   </div>
+ -->
